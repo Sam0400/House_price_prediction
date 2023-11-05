@@ -11,7 +11,7 @@ import tkinter as tk
 from tkinter import ttk
 
 # Load your dataset into a DataFrame
-data = pd.read_csv("C:\\Users\\tusha\\Documents\\House Price Kolkata.csv")   # Replace with your dataset file path
+data = pd.read_csv(# Replace with your dataset file path)   
 
 # Define the features and target variable
 features = [
